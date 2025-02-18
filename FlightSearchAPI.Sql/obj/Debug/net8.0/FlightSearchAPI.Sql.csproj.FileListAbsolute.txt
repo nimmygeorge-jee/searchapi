@@ -1,0 +1,11 @@
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\bin\Debug\net8.0\FlightSearchAPI.Sql.deps.json
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\bin\Debug\net8.0\FlightSearchAPI.Sql.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\bin\Debug\net8.0\FlightSearchAPI.Sql.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.AssemblyInfoInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.AssemblyInfo.cs
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.csproj.CoreCompileInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\refint\FlightSearchAPI.Sql.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\FlightSearchAPI.Sql.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Sql\obj\Debug\net8.0\ref\FlightSearchAPI.Sql.dll
