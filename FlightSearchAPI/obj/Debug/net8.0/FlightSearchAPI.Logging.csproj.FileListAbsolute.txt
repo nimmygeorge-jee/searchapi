@@ -1,0 +1,17 @@
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Logging.deps.json
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Logging.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Logging.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Application.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Core.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Application.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\bin\Debug\net8.0\FlightSearchAPI.Core.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.csproj.AssemblyReference.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.AssemblyInfoInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.AssemblyInfo.cs
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.csproj.CoreCompileInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSe.BE36277F.Up2Date
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\refint\FlightSearchAPI.Logging.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\FlightSearchAPI.Logging.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI\obj\Debug\net8.0\ref\FlightSearchAPI.Logging.dll
