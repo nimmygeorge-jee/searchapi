@@ -1,0 +1,15 @@
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\bin\Debug\net8.0\FlightSearchAPI.Application.deps.json
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\bin\Debug\net8.0\FlightSearchAPI.Application.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\bin\Debug\net8.0\FlightSearchAPI.Application.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\bin\Debug\net8.0\FlightSearchAPI.Core.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\bin\Debug\net8.0\FlightSearchAPI.Core.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.csproj.AssemblyReference.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.AssemblyInfoInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.AssemblyInfo.cs
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSe.FFEDBA50.Up2Date
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\refint\FlightSearchAPI.Application.dll
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\FlightSearchAPI.Application.pdb
+C:\Users\nimmy.george\source\repos\FlightSearchAPI\FlightSearchAPI.Application\obj\Debug\net8.0\ref\FlightSearchAPI.Application.dll
